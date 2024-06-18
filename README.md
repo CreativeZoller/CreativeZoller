@@ -7,7 +7,7 @@
     Hi, and Welcome! I'm CreativeZoller, a passionate Front-End developer from <b>Hungary</b>, 
     currently living in <b>Graz, Austria</b>, where the weather is 
     <img id="wicon" src="http://openweathermap.org/img/wn/02d@2x.png" alt="Weather icon" width="28" />
-     few clouds and the current temperature is 24°C, and the sunset is only at Invalid Date.<br />
+     few clouds and the current temperature is 26°C, and the sunset is only at Invalid Date.<br />
     <img src="https://komarev.com/ghpvc/?username=creativezoller&label=Profile%20views&color=0e75b6&style=flat" alt="creativezoller" />
 </p>
 
@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help with **mentoring and coaching** for junior developers
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on medium
 
 - 💬 I am happy to have discussions about **css3, html5, sass, linting, hooks, architect, unit testing, angular, ci**
 
@@ -80,4 +80,4 @@
 </p>
 
 ------------
-<p align="center">Last refresh: Tuesday, 18 June at 10:04 CEST</p>
+<p align="center">Last refresh: Tuesday, 18 June at 10:58 CEST</p>
