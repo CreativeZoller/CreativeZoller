@@ -1,0 +1,24 @@
+{
+  "name": "githubreadme",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Zoltan Belicza",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.7.0",
+    "puppeteer": "^22.11.1"
+  }
+}
