@@ -6,6 +6,7 @@ const MUSTACHE_MAIN_DIR = "./main.mustache";
 let DATA = {
   name: "CreativeZoller",
   posts: false,
+  windIsOn: false,
   refresh_date: new Date().toLocaleDateString("en-GB", {
     weekday: "long",
     month: "long",
@@ -24,9 +25,10 @@ async function setWeatherInformation() {
     .then((r) => r.json())
     .then((r) => {
       DATA.temperature = Math.round(r.list[0].main.temp);
+      DATA.wind = r.list[0].wind.speed;
       DATA.weather = r.list[0].weather[0].description;     
-      DATA.sunset = new Date(r.list[0].sys.sunset).toLocaleTimeString("en-US");
       DATA.weatherIconUrl = `http://openweathermap.org/img/wn/${r.list[0].weather[0].icon}@2x.png`;
+      if(DATA.wind > 10) DATA.windIsOn = true;
     });
 }
 
