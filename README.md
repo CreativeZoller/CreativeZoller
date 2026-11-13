@@ -1,84 +1,88 @@
-<h1>
-    👋 Welcome to my page. 
-</h1>
+# Hey, I'm Zoltán 👋
 
+## **Senior Software & Product Engineer · Technical Lead · Full-Stack Development · Automation & AI**
 
-<p style="line-height:36px">
-    Hi, and Welcome! I'm CreativeZoller, a passionate Front-End developer from <b>Hungary</b>, 
-    currently living in <b>Graz, Austria</b>, where the weather is 
-    <img id="wicon" src="http://openweathermap.org/img/wn/02d@2x.png" alt="Weather icon" width="28" />
-     few clouds and the current temperature is 26°C
-     .<br />
-    <img src="https://komarev.com/ghpvc/?username=creativezoller&label=Profile%20views&color=0e75b6&style=flat" alt="creativezoller" />
-</p>
+I'm a software engineer with **16+ years of experience**, originally from Hungary and now based in **Graz, Austria**.
 
-<h3>Things I do</h3>
+Most of my professional work has been around **React, Angular, TypeScript, enterprise applications, and frontend architecture**. Over the years, I've also moved further into backend development, databases, automation, and running my own infrastructure.
 
-- 🔭 I’m currently working on **an open/source freelance rate-calculator**
+I like building software that solves real problems, performs well, and stays understandable as it grows. I enjoy the full journey — from figuring out what users need to writing the code, deploying it, and keeping it running.
 
-- 🌱 I’m currently learning **python, react, java and some other soft-skills**
+## What I do
 
-- 👯 I’m looking to collaborate on **some new projects**
+- **Build web applications:** React, Angular, Vue, TypeScript, component libraries, design systems, and practical UX.
+- **Work across the stack:** REST APIs, backend services, Rust, Python, Node.js, PostgreSQL, and SQLite.
+- **Automate things:** n8n, Make, Python, webhooks, API integrations, and workflows using OpenAI and Claude.
+- **Run my own infrastructure:** Linux, Docker, authentication, monitoring, backups, and self-hosted services.
+- **Improve existing systems:** architecture, performance, maintainability, testing, and developer experience.
 
-- 🤝 I’m looking for help with **mentoring and coaching** for junior developers
+## Things I'm building
 
-- 📝 I regularly write articles on **medium**
+### 💰 Surplus — personal finance & business planning
 
-- 💬 I am happy to have discussions about **css3, html5, sass, linting, hooks, architect, unit testing, angular, ci**
+An ongoing **local-first finance application** designed to make money management and business planning easier to understand — without requiring accounting knowledge.
 
-- 📫 How to reach me: **zoltan.belicza@gmail.com**
+`Vue` · `TypeScript` · `Rust` · `PostgreSQL` · `SQLite`
 
+I'm working on the frontend, backend APIs, calculation engines, data ownership, imports, and database design. **Active development.**
 
-<h3>Things I work with</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=creativezoller&show_icons=true&locale=en&layout=compact" alt="creativezoller" />
-</p>
-<p>
-    <img alt="Awesome person" src="https://badgen.net/badge/icon/awesome?icon=awesome&label&color=green" />
-    <img alt="HTML5" src="https://badgen.net/badge/icon/html5?icon=libraries&label&color=red" />
-    <img alt="CSS3" src="https://badgen.net/badge/icon/css3?icon=libraries&label&color=red" />
-    <img alt="JavaScript" src="https://badgen.net/badge/icon/javascript?icon=typescript&label&color=red" />
-    <img alt="SQL" src="https://badgen.net/badge/icon/mysql?icon=libraries&label&color=grey" />
-    <img alt="Git" src="https://badgen.net/badge/icon/git?icon=git&label" />
-    <img alt="NPM" src="https://badgen.net/badge/icon/npm?icon=npm&label&color=purple" />
-    <img alt="Node.js" src="https://badgen.net/badge/icon/nodejs?icon=libraries&label&color=purple" />
-    <img alt="Express.js" src="https://badgen.net/badge/icon/expressjs?icon=libraries&label&color=purple" />
-    <img alt="Mongodb" src="https://badgen.net/badge/icon/mongodb?icon=libraries&label&color=grey" />
-    <img alt="Mariadb" src="https://badgen.net/badge/icon/mariadb?icon=libraries&label&color=grey" />
-    <img alt="Firebase" src="https://badgen.net/badge/icon/firebase?icon=googleplay&label&color=grey" />
-    <img alt="TravisCI" src="https://badgen.net/badge/icon/travis?icon=travis&label&color=cyan" />
-    <img alt="Prettier" src="https://badgen.net/badge/icon/prettier?icon=libraries&label&color=cyan" />
-    <img alt="d3js" src="https://badgen.net/badge/icon/d3js?icon=libraries&label&color=yellow" />
-    <img alt="SASS" src="https://badgen.net/badge/icon/sass?icon=libraries&label&color=red" />
-    <img alt="Graphql" src="https://badgen.net/badge/icon/graphql?icon=graphql&label&color=grey" />
-    <img alt="Gulp" src="https://badgen.net/badge/icon/gulp?icon=libraries&label&color=purple" />
-    <img alt="Grunt" src="https://badgen.net/badge/icon/grunt?icon=libraries&label&color=purple" />
-    <img alt="Webpack" src="https://badgen.net/badge/icon/webpack?icon=libraries&label&color=purple" />
-    <img alt="TypeScript" src="https://badgen.net/badge/icon/typescript?icon=typescript&label&color=red" />
-    <img alt="Angular" src="https://badgen.net/badge/icon/angular?icon=libraries&label&color=red" />
-    <img alt="React" src="https://badgen.net/badge/icon/react?icon=libraries&label&color=red" />
-    <img alt="Material" src="https://badgen.net/badge/icon/sass?icon=libraries&label&color=yellow" />
-    <img alt="CircleCI" src="https://badgen.net/badge/icon/circleci?icon=circleci&label&color=cyan" />
-    <img alt="docker" src="https://badgen.net/badge/icon/docker?icon=docker&label" />
-    <img alt="Heroku" src="https://badgen.net/badge/icon/heroku?icon=libraries&label&color=cyan" />
-    <img alt="Java" src="https://badgen.net/badge/icon/java?icon=java&label&color=yellow" />
-    <img alt="Photoshop" src="https://badgen.net/badge/icon/photoshop?icon=libraries&label&color=red" />
-    <img alt="Figma" src="https://badgen.net/badge/icon/figma?icon=libraries&label&color=red" />
-    <img alt="Terminal" src="https://badgen.net/badge/icon/terminal?icon=terminal&label&color=cyan" />
-    <img alt="discord" src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label&color=cyan" />
-    <img alt="medium" src="https://badgen.net/badge/icon/medium?icon=medium&label&color=green" />
-    <img alt="reddit" src="https://badgen.net/badge/icon/reddit?icon=reddit&label&color=green" />
-    <img alt="slack" src="https://badgen.net/badge/icon/slack?icon=slack&label&color=green" />
-</p>
+### 🏠 JeanValjean Lab — my self-hosted homelab environment
 
+A Raspberry Pi-based Linux and Docker environment running **dozens of services** for my household and development projects and also acting s gatekeeper with Firewalla to protect all my home devices.
 
-<h3>Where to find me</h3>
-<p>
-    <a href="https://github.com/CreativeZoller" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-    <a href="https://x.com/BeliczaZj" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/BeliczaZJ?style=for-the-badge&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/beliczazoltanjanos/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@zolee_jackoway" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+It includes identity and access management, monitoring, automated workflows, backup and recovery, dashboards, firewalls, ad-blocking, routing and internal tools. It's where I experiment with infrastructure and learn what it takes to keep systems reliable, not just get them running.
 
-------------
-<p align="center">Last refresh: Tuesday, 18 June at 11:08 CEST</p>
+`Linux` · `Docker` · `Raspberry Pi` · `Authelia` · `Grafana` · `n8n` · `Python`
+
+### 🔎 OSINT Automation
+
+A modular Python project for **passive, structured open-source intelligence**: collecting domain and username information, managing cases, organizing evidence, and preparing reports.
+
+The project uses a modular adapter approach and automated tests. **Active development.**
+
+`Python` · `APIs` · `Automated Testing` · `Obsidian`
+
+### 🚗 Petrol Price Pursuer
+
+A small, public project for comparing fuel prices in Austria. It brings together price information, station locations, and a map-based interface.
+
+`Angular` · `TypeScript` · `Leaflet`
+
+[View the code](https://github.com/CreativeZoller/petrolpricepursuer)
+
+### 🍎 macOS Development Setup
+
+A repeatable setup for an Apple Silicon development machine using a bootstrap script and Ansible. I prefer having a clean way to rebuild my tools rather than setting everything up by hand each time.
+
+`Shell` · `Ansible` · `macOS`
+
+I also have other projects in progress, including **PhoenixCRM** (a modular desktop CRM) and **OmniFleet** (an early-stage self-hosted vehicle tracking and analytics app).
+
+## Tech I work with
+
+| Area | Tools & technologies |
+| --- | --- |
+| **Frontend** | TypeScript, JavaScript, React, Angular, Vue, HTML, CSS/Sass, Tailwind, design systems |
+| **Backend & data** | Rust, Python, Node.js, REST APIs, PostgreSQL, SQLite, MySQL |
+| **Automation & AI** | n8n, Make, OpenAI/ChatGPT, Claude, API integrations, webhooks |
+| **Infrastructure** | Linux, Docker, Docker Compose, Raspberry Pi, reverse proxies, authentication, monitoring, backups |
+| **Engineering workflow** | Git, CI/CD, Jest, Cypress, testing, performance profiling, Figma |
+
+## A little about my experience
+
+I've worked on **large logistics and enterprise platforms**, including software at **SSI SCHÄFER**, and on a data-heavy IoT platform at **LNConsult** handling around **100 million records**. In one performance project, we cut a critical loading process from roughly **30 seconds to 3 seconds**.
+
+I've also run software businesses and built independent products. That experience taught me to think about more than the technical solution: what people actually need, how much complexity is worth adding, and how to keep a product maintainable.
+
+## Learning & certifications
+
+I regularly update my skills through hands-on projects and structured training. Recent work includes **n8n Academy** courses and certification, **Make Academy** Foundation and Advanced training, and practical AI-assisted development and integrations using **OpenAI/ChatGPT and Claude**.
+
+Right now, I'm especially interested in **useful automation, AI-assisted workflows, privacy-aware applications, and reliable self-hosted systems**.
+
+## Let's connect
+
+I'm happy to talk about frontend architecture, product engineering, automation, self-hosting, and interesting software problems.
+
+[**LinkedIn**](https://www.linkedin.com/in/beliczazoltanjanos/) · [**developer Website**](https://zoltanbelicza.dev/) · [**Email**](mailto:zoltan.belicza@gmail.com)
+
